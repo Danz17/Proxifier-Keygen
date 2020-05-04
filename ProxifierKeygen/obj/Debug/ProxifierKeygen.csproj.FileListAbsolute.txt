@@ -1,0 +1,14 @@
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\bin\Debug\ProxifierKeygen.exe.config
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\bin\Debug\ProxifierKeygen.exe.manifest
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\bin\Debug\ProxifierKeygen.application
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\bin\Debug\ProxifierKeygen.exe
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\bin\Debug\ProxifierKeygen.pdb
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.csprojAssemblyReference.cache
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.Form1.resources
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.Properties.Resources.resources
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.csproj.GenerateResource.cache
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.csproj.CoreCompileInputs.cache
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.exe.manifest
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.application
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.exe
+C:\Users\Danz\Desktop\proxifier-keygen-master\proxifier-keygen-master\ProxifierKeygen\obj\Debug\ProxifierKeygen.pdb
